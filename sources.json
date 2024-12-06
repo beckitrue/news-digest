@@ -16,6 +16,10 @@
           "url": "https://www.bleepingcomputer.com/feed/"
         },
         {
+          "title": "CISA Alerts",
+          "url": "https://us-cert.cisa.gov/ncas/alerts.xml"
+        },
+        {
           "title": "The Independent (News)",
           "url": "https://www.independent.co.uk/news/rss"
         },
