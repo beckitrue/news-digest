@@ -12,6 +12,10 @@
           "url": "https://feeds.feedburner.com/TheHackersNews"
         },
         {
+          "title": "Bleeping Computer",
+          "url": "https://www.bleepingcomputer.com/feed/"
+        },
+        {
           "title": "The Independent (News)",
           "url": "https://www.independent.co.uk/news/rss"
         },
